@@ -70,6 +70,6 @@ To achieve this goal, we've laid down several rules
 
 9. You aren't sure if your post is suitable for our format? Better still publish it and edit if you received a remark from our mods. We may change this rule in the future though.
 
-10. Frontend UA is the name of our community of developers. Many of us really are frontend engineers from Ukraine. But it doesn't mean that all job postings here should be related to frontend or linked to Ukraine somehow. We all work on different projects with diverse people of all specializations, therefore we are glad to see any job postings from all employers and candidates(except russians and residents/citizens of countries that support russia). If your post is well-written and your offer is seductive, then people will share it with their friends and colleagues on their own.
+10. Frontend UA is the name of our community of developers. Many of us really are frontend engineers from Ukraine. But it doesn't mean that all job postings here should be related to frontend or linked to Ukraine somehow. We all work on different projects with diverse people of all specializations, therefore we are glad to see any job postings from all employers and candidates (except russians and residents/citizens of countries that support russia). If your post is well-written and your offer is seductive, then people will share it with their friends and colleagues on their own.
 
 An example of a good job posting: https://t.me/frontenduajobs/1204

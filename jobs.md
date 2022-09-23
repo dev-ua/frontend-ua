@@ -33,7 +33,7 @@ _English version below._
 
 9. Ви не впевнені, що ваше оголошення підходить для нашого формату? Краще все одно його опублікувати і, якщо будуть зауваження, відредагувати. Це правило може змінитися в майбутньому, втім.
 
-10. Frontend UA — назва нашої спільноти розробників. Багато з нас дійсно є фронтендерами з України. Але це не означає, що вакансії обов'язково мають стосуватися фронтенду чи бути якось прив'язаними до України. Ми всі працюємо на проектах з людьми різних напрямків і спеціальностей, тому будемо раді будь-яким оголошенням від роботодавців та претендентів (за виключенням росіян та мешканців/громадян країн, що її підтримують). Якщо ваше оголошення гарно написане, і вакансія є привабливою, то люди самі будуть радити її своїм друзям та знайомим.
+10. Frontend UA — назва нашої спільноти розробників. Багато з нас дійсно є фронтендерами з України. Але це не означає, що вакансії обов'язково мають стосуватися фронтенду чи бути якось прив'язаними до України. Ми всі працюємо на проектах з людьми різних напрямків і спеціальностей, тому будемо раді будь-яким оголошенням від роботодавців та претендентів (за виключенням мешканців/громадян Росії, тимчасово окупованих територій України, Куби, Ірану, Північної Кореї та Сирії). Якщо ваше оголошення гарно написане, і вакансія є привабливою, то люди самі будуть радити її своїм друзям та знайомим.
 
 Приклад гарної вакансії: https://t.me/frontenduajobs/802
 
@@ -70,6 +70,6 @@ To achieve this goal, we've laid down several rules
 
 9. You aren't sure if your post is suitable for our format? Better still publish it and edit if you received a remark from our mods. We may change this rule in the future though.
 
-10. Frontend UA is the name of our community of developers. Many of us really are frontend engineers from Ukraine. But it doesn't mean that all job postings here should be related to frontend or linked to Ukraine somehow. We all work on different projects with diverse people of all specializations, therefore we are glad to see any job postings from all employers and candidates (except russians and residents/citizens of countries that support russia). If your post is well-written and your offer is seductive, then people will share it with their friends and colleagues on their own.
+10. Frontend UA is the name of our community of developers. Many of us really are frontend engineers from Ukraine. But it doesn't mean that all job postings here should be related to frontend or linked to Ukraine somehow. We all work on different projects with diverse people of all specializations, therefore we are glad to see any job postings from all employers and candidates (except residents/citizens of Russia, temporarily occupied territories of Ukraine, Cuba, Iran, North Korea, and Syria.). If your post is well-written and your offer is seductive, then people will share it with their friends and colleagues on their own.
 
 An example of a good job posting: https://t.me/frontenduajobs/1204
